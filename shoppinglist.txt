@@ -1,0 +1,4 @@
+book
+fruits
+clothes
+shoes
